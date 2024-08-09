@@ -1,5 +1,5 @@
 venv/
 .mypy_cache/
 .idea/
-*.py
+./*.py
 */__pycache__/
